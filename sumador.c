@@ -16,5 +16,6 @@ int main(void)
 
     res = num1 - num2;
     p("resta) %d - %d = %d", num1, num2, res);
+    p(" finfin ");
     return 0;
 }
